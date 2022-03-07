@@ -1,0 +1,38 @@
+<header>
+  <!-- Intro settings -->
+  <style>
+    /* Default height for small devices */
+    #intro-example {
+      height: 400px;
+    }
+
+    /* Height for devices larger than 992px */
+    @media (min-width: 992px) {
+      #intro-example {
+        height: 600px;
+      }
+    }
+  </style>
+
+  <!-- Navbar -->
+
+  <!-- Background image -->
+  <div
+    id="intro-example"
+    class="p-5 text-center bg-image"
+    style="background-image: url('../../../assets/img/imagen-principal.png');"
+  >
+    <div class="mask" style="background-color: rgba(0, 0, 0, 0.7);">
+      <div class="d-flex justify-content-center align-items-center h-100">
+        <div class="text-white btn-content">
+          <button class="btn btn-primary "
+            style=" padding: 20px 25px 20px 25px; font-size: 20px; background-color: rgb(155, 19, 19);"
+            [routerLink]="['Home']"
+          >VER MAS INFORMACION</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Background image -->
+</header>
+<app-footer></app-footer>
