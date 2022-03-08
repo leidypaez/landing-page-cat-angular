@@ -21,18 +21,20 @@
 
 <!-- targetas -->
 <div class="container">
-  <div class="row">
-    <!-- | filter:'category':criterio -->
-    <div class="col-12 col-sm-12 col-md-5 col-lg-4 col-xl-4 section-target py-4" *ngFor="let animals of animal">
-      <div class="card" >
-        <img
-          src="{{animals.imageUrl}}"
-          class="img h-40"
-        />
-        <div class="card-body">
-          <h5 class="card-title">{{animals.name}}</h5>
-          <p class="card-text">{{animals.description}}</p>
-          <p class="card-text"></p>
+  <div>
+    <div class="row">
+      <!-- | filter:'category':criterio  *ngFor="let item of animal | filter:'category':type"-->
+      <div class="col-12 col-sm-12 col-md-5 col-lg-4 col-xl-4 section-target py-4" *ngFor="let animals of animal">
+        <div class="card">
+          <img
+            src="{{animals.imageUrl}}"
+            class="img h-40"
+          />
+          <div class="card-body">
+            <h5 class="card-title">{{animals.name}}</h5>
+            <p class="card-text">{{animals.description}}</p>
+            <p class="card-text"></p>
+          </div>
         </div>
       </div>
     </div>
