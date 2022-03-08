@@ -4,29 +4,24 @@
   </div>
 </div>
 
-
 <!-- targetas -->
 <div class="container">
   <div class="row">
   <!-- | filter:'category':criterio -->
-  <div class="col-12 col-sm-12 col-md-4 col-lg-3 col-xl-3 section-target">
+  <div class="col-12 col-sm-12 col-md-4 col-lg-3 col-xl-3 section-target" *ngFor="let animals of animal">
       <div class="card">
         <img
-          src=""
+           src="{{animals.imageUrl}}"
           class="img h-50"
         />
         <div class="card-body">
-          <h5 class="card-title"></h5>
+          <h5 class="card-title">{{animals.name}}</h5>
+          <p class="card-text">{{animals.description}}</p>
           <p class="card-text"></p>
-          <p class="card-text">
-            COP
-          </p>
-          <a class="btn btn-primary">Agregar</a>
            <!-- (click)="agregar(item)" -->
         </div>
       </div>
     </div>
   </div>
 </div>
-
 <app-footer></app-footer>
