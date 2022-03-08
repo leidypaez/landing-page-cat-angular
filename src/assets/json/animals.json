@@ -8,31 +8,31 @@
   {
     "name": "Clumber-spaniel",
     "category": "perro",
-    "description": "Son unos perros corpulentos y pesados con una gran osamenta y un tamaño mediano, siendo más largos que altos. Tienen un carácter excepcional y su entrenamiento y educación son sencillos debido a su inteligencia y buena actitud.",
+    "description": "Son unos perros corpulentos y pesados con una gran osamenta y un tamaño mediano, siendo más largos que altos. Tienen un carácter excepcional y su entrenamiento y educación son sencillos.",
     "imageUrl": "../../../assets/images/Clumber-Spaniel.jpg"
   },
   {
     "name": "Shih-tzu",
     "category": "perro",
-    "description": "Estos tipos de perros son muy cariñosos e inteligentes y necesitan una atención constante por parte de sus dueños, así que no están recomendados para vivir fuera de las casas o para dejarlos mucho tiempo solos.",
-    "imageUrl": "../../../assets/images/shih-tzu.jpg"
+    "description": "Estos tipos de perros son muy cariñosos e inteligentes y necesitan una atención constante por parte de sus dueños, así que no están recomendados para vivir fuera de las casas.",
+    "imageUrl": "../../../assets/images/shih_tzu.jpg"
   },
   {
     "name": "Shiba-Inu",
     "category": "perro",
-    "description": "Se trata de una raza, por lo general, muy afectuosa con los dueños y muy adaptable a distintos ambientes y familias. Algunas fuentes aseguran que es originario de Corea o el Sur de China, aunque popularmente se le atribuye origen Japonés..",
+    "description": "Se trata de una raza, por lo general, muy afectuosa con los dueños y muy adaptable a distintos ambientes y familias. Algunas fuentes aseguran que es originario de Corea o el Sur de China.",
     "imageUrl": "../../../assets/images/shiba-inu.jpg"
   },
   {
     "name": "Bichón-frisé",
     "category": "perro",
-    "description": "En pocas palabras, se trata de la raza de perro perfecta para aquellas personas que no hayan adoptado antes o busquen un can fácil de adiestrar, a la par que juguetón y divertido. Convivir con un bichón frisé es realmente fácil, puesto que es un perro que se adapta perfectamente a cualquier persona.",
+    "description": "En pocas palabras, se trata de la raza de perro perfecta para aquellas personas que no hayan adoptado antes o busquen un can fácil de adiestrar, a la par que juguetón y divertido.",
     "imageUrl": "../../../assets/images/bichon-frise.jpg"
   },
   {
     "name": "Perro-pomsky",
     "category": "perro",
-    "description": "Precisamente por su apariencia, el perro pomsky ha ganado mucha popularidad en los últimos años. Por ello, proseguimos a detallar las principales características de esta nueva y maravillosa raza canina que ha llegado pisando fuerte y promete ganarse muchos corazones con esa ternura que derrocha allá donde va. .",
+    "description": "Precisamente por su apariencia, el perro pomsky ha ganado mucha popularidad en los últimos años. Por ello, proseguimos a detallar las principales características de esta nueva y maravillosa raza canina.",
     "imageUrl": "../../../assets/images/perro-pomsky.jpg"
   },
   {
@@ -44,7 +44,7 @@
   {
     "name": "Sphynx",
     "category": "gato",
-    "description": "Los sphynx o esfinges no son la única raza de gato que no tiene absolutamente ningún pelo, o que tiene poquísimos, pero sí son los más conocidos. Esto hace que sean ideales para los amantes de los felinos que, por desgracia, son alérgicos a su pelaje. ",
+    "description": "Los sphynx o esfinges no son la única raza de gato que no tiene absolutamente ningún pelo, o que tiene poquísimos, pero sí son los más conocidos. Esto hace que sean ideales para los amantes de los felinos.",
     "imageUrl":"../../../assets/images/sphynx.jpg"
   },
   {
@@ -62,7 +62,7 @@
   {
     "name": "Siamés",
     "category": "gato",
-    "description": "Los siameses son una de las razas de gatos más antiguas que se conocen y debe ser precisamente por su larga trayectoria cerca de los humanos por la cual se han convertido en uno de los felinos más cariñosos y amables con sus dueños. ",
+    "description": "Los siameses son una de las razas de gatos más antiguas que se conocen y debe ser precisamente por su larga trayectoria cerca de los humanos.",
     "imageUrl": "../../../assets/images/siames.jpg"
   },
   {
@@ -74,7 +74,7 @@
   {
     "name": "Blanco-de-Hotot",
     "category": "conejo",
-    "description": "Es una de las razas de conejo más bonitas y como características físicas resaltamos sus enormes ojos castaños enmarcados por un círculo negro que destaca sobre su manto de color blanco. Le encanta comer",
+    "description": "Es una de las razas de conejo más bonitas y como características físicas resaltamos sus enormes ojos castaños enmarcados por un círculo negro que destaca sobre su manto de color blanco.",
     "imageUrl": "../../../assets/images/blanco-de-hotot.jpg"
   },
   {
@@ -104,7 +104,7 @@
   {
     "name": "Toy-o-enano",
     "category": "conejo",
-    "description": "Es más independiente que otros tipos de conejo, y es que el conejo toy es especialmente miedoso y desconfiado con los extraños. Con el tiempo se podrá acostumbrar a ti si te muestras paciente y amistoso. ",
-    "imageUrl": "../../../assets/images/toy-o-enano.jpg"
+    "description": "Es más independiente que otros tipos de conejo, y es que el conejo toy es especialmente miedoso y desconfiado con los extraños.",
+    "imageUrl": "../../../assets/images/conejo-toy-o-enano.jpg"
   }
 ]

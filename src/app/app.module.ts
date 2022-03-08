@@ -7,6 +7,7 @@ import { LandingPageComponent } from './components/landing-page/landing-page.com
 import { HomeComponent } from './components/home/home.component';
 import { DespcriptionComponent } from './components/despcription/despcription.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { FilterPipe } from './pipes/filter.pipe';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { FooterComponent } from './components/footer/footer.component';
     LandingPageComponent,
     HomeComponent,
     DespcriptionComponent,
-    FooterComponent
+    FooterComponent,
+    FilterPipe
   ],
   imports: [
     BrowserModule,

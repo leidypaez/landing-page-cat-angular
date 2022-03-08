@@ -23,4 +23,10 @@ export class HomeComponent implements OnInit {
     this.dataPets.addPets(item)
     console.log(this.dataPets);
   }
+
+    // filtro de cada uno de los platos
+    type:string = 'Perros';
+    changeType(text:string) {
+      this.type = text;
+    }
 }
